@@ -1,5 +1,5 @@
 # hello-world
-TO CREATE A WORD!
+TO CREATE A WORLD!
 
 
 do
